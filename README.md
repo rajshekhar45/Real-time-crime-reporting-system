@@ -66,6 +66,6 @@ Feel free to suggest improvements or contribute to the project! 🚀
 ---
 
 
-**Thanks a lot,**  
-**Satyabrata Das**  
+**Thanks a lot,**
+**KSHITIZ KUMAR**  
 *Project Leader*
