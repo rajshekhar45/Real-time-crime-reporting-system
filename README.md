@@ -1,6 +1,4 @@
-# Real-time-crime-reporting-system
-A real-time crime reporting system that enables users to report crimes such as theft, accidents, and assaults. The system automatically detects the user's location using the Google Maps API and forwards the report to the nearest police station.
-🚔 Real-Time Crime Reporting System 🆘
+ 🚔 Real-Time Crime Reporting System 🆘
 A real-time crime reporting system that enables users to report crimes such as theft, accidents, and assaults. The system automatically detects the user's location using the Google Maps API and forwards the report to the nearest police station.
 
 🔹 Features
@@ -18,19 +16,5 @@ Database: MySQL
 Google Services API: For real-time location tracking
 Security: Spring Security for authentication
 📌 How to Run
-1️⃣ Clone the repository
-git clone https://github.com/your-username/crime-reporting-system.git
-cd crime-reporting-system
-2️⃣ Set up the database
-Open MySQL and create a database:
-CREATE DATABASE crime_reports;
-Update application.properties in Spring Boot with your database credentials:
-spring.datasource.url=jdbc:mysql://localhost:3306/crime_reports
-spring.datasource.username=root
-spring.datasource.password=yourpassword
-3️⃣ Run the Spring Boot Backend
-mvn spring-boot:run
-4️⃣ Launch the Java Swing GUI
-Open CrimeReportingApp.java in an IDE (like IntelliJ or Eclipse)
-Run the main() method
-5️⃣ Start Reporting Crimes! 🚔
+
+
